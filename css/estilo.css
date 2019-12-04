@@ -4,6 +4,16 @@
     border: gray;
     border-style: dotted;
     margin: 50px 300px;
+    
+}
+
+#cabecera
+{
+    background: red;
+}
+
+#post 
+{
     display: flex;
     flex-direction: column;
     align-items: center;
