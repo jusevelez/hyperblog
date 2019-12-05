@@ -1,9 +1,22 @@
 #contenedor
 {
-    padding: 10px;
-    border: gray;
-    border-style: dotted;
-    margin: 50px 300px;
+    border: 1px solid #DDD;
+    margin: 0 auto;
+    width: 70%;
+    padding: 10px;   
+}
+
+#cabecera
+{
+    background: rgb(95, 0, 133); 
+    margin: 0;
+    padding: 1em;
+    color: white;
+    text-align: left;
+}
+
+#post 
+{
     display: flex;
     flex-direction: column;
     text-align: left;
